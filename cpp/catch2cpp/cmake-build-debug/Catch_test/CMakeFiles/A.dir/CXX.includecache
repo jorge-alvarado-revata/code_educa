@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jorge Alvarado/CLionProjects/demo2/Catch_test/perros/Perros.cpp
+Perros.h
+C:/Users/Jorge Alvarado/CLionProjects/demo2/Catch_test/perros/Perros.h
+
+C:/Users/Jorge Alvarado/CLionProjects/demo2/Catch_test/perros/Perros.h
+

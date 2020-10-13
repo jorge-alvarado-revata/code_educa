@@ -1,0 +1,3 @@
+C:/Users/Jorge Alvarado/CLionProjects/parametric/cmake-build-debug/CMakeFiles/parametric.dir
+C:/Users/Jorge Alvarado/CLionProjects/parametric/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jorge Alvarado/CLionProjects/parametric/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Jorge Alvarado/Documents/GitHub/archivos-sol/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Jorge Alvarado/Documents/GitHub/archivos-sol/cmake-build-debug/CMakeFiles/archivos_sol.dir
+C:/Users/Jorge Alvarado/Documents/GitHub/archivos-sol/cmake-build-debug/CMakeFiles/edit_cache.dir

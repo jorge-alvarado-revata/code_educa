@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jorge Alvarado/CLionProjects/overloading/funciones.h
+tipos.h
+C:/Users/Jorge Alvarado/CLionProjects/overloading/tipos.h
+
+C:/Users/Jorge Alvarado/CLionProjects/overloading/main.cpp
+iostream
+-
+funciones.h
+C:/Users/Jorge Alvarado/CLionProjects/overloading/funciones.h
+
+C:/Users/Jorge Alvarado/CLionProjects/overloading/tipos.h
+

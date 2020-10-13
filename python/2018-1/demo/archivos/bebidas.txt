@@ -1,0 +1,7 @@
+cafe con leche,3
+cafe cortado,3
+cafe pasado,4
+te,1
+manzanilla,1
+anis,1
+yerbaluisa,1

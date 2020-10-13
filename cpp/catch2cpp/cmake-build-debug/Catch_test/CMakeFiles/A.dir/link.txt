@@ -1,0 +1,2 @@
+D:\mingw\bin\ar.exe qc libA.a  CMakeFiles/A.dir/perros/Perros.cpp.obj
+D:\mingw\bin\ranlib.exe libA.a

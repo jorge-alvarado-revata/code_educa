@@ -1,0 +1,7 @@
+manzana,2
+pera,2
+naranja,2
+banana,2
+melon,2
+sandia,3
+kiwi,4

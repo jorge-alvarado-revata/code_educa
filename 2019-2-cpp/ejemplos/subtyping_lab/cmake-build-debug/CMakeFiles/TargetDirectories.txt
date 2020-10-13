@@ -1,0 +1,3 @@
+C:/Users/Jorge Alvarado/CLionProjectssubtyping_lab/cmake-build-debug/CMakeFiles/CLionProjectssubtyping_lab.dir
+C:/Users/Jorge Alvarado/CLionProjectssubtyping_lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jorge Alvarado/CLionProjectssubtyping_lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir

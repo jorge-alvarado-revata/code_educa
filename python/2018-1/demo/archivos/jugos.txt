@@ -1,0 +1,5 @@
+fresa,6
+papaya,5
+coco,8
+fresa y piña,8
+fresa y leche,10

@@ -1,0 +1,4 @@
+ToolSet: 5.2 (local)@D:\mingw
+Options: 
+
+Options:-DCMAKE_SH=CMAKE_SH-NOTFOUND

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jorge Alvarado/CLionProjects/parametric/MyArray.h
+tipos.h
+C:/Users/Jorge Alvarado/CLionProjects/parametric/tipos.h
+
+C:/Users/Jorge Alvarado/CLionProjects/parametric/main.cpp
+iostream
+-
+iostream
+-
+MyArray.h
+C:/Users/Jorge Alvarado/CLionProjects/parametric/MyArray.h
+tipos.h
+C:/Users/Jorge Alvarado/CLionProjects/parametric/tipos.h
+
+C:/Users/Jorge Alvarado/CLionProjects/parametric/tipos.h
+

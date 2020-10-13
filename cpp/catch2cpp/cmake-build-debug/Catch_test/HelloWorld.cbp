@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HelloWorld"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Catch_test\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/Jorge Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Catch_tests_run">
+				<Option output="/cygdrive/c/Users/Jorge Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Catch_tests_run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Jorge Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 Catch_tests_run"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Catch_tests_run/fast">
+				<Option output="/cygdrive/c/Users/Jorge Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Catch_tests_run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Jorge Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 Catch_tests_run/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="A">
+				<Option output="/cygdrive/c/Users/Jorge Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/libA.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Jorge Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 A"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="A/fast">
+				<Option output="/cygdrive/c/Users/Jorge Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/libA.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Jorge Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 A/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Jorge\ Alvarado/CLionProjects/demo2/cmake-build-debug/Catch_test/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/Jorge Alvarado/CLionProjects/demo2/Catch_test/demo2Test.cpp">
+			<Option target="Catch_tests_run"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Jorge Alvarado/CLionProjects/demo2/Catch_test/perros/Perros.h">
+			<Option target="A"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Jorge Alvarado/CLionProjects/demo2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Jorge Alvarado/CLionProjects/demo2/Catch_test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Catch_test\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

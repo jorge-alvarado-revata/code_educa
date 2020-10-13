@@ -1,0 +1,3 @@
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/cmake-build-debug/CMakeFiles/pc_3_ejemplos_2.dir
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

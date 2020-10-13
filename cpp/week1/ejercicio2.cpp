@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+  int colores;
+  int De24,De12, De6, Sobran;
+  
+  cout << "Numero de colores: ";
+  cin >> colores;
+  //--- calculo
+  De24  = colores/24;
+  colores = colores %24;  //-- hallamos es resto
+  De12  = colores/12;
+  colores = colores %12;
+  De6   =  colores /6;
+  Sobran = colores%6;
+  
+  cout << "Se empaquetan en cajas de " << endl;
+  cout << De24 << "cajas de 24 colores " << endl;
+  cout << De12 << "cajas de 12 colores " << endl;
+  cout << De6  << "cajas de 6 colores  " << endl;
+  cout << Sobran << "colores";
+}

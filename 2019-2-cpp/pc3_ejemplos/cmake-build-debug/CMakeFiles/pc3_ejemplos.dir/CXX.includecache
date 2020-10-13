@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/CBancoCentral.cpp
+CBancoCentral.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/CBancoCentral.h
+Tipos.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/Tipos.h
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/CBancoCentral.h
+Tipos.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/Tipos.h
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/CCliente.cpp
+CCliente.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/CCliente.h
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/CCliente.h
+iostream
+-
+Tipos.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/Tipos.h
+CBancoCentral.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/CBancoCentral.h
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/Tipos.h
+iostream
+-
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/main.cpp
+iostream
+-
+CCliente.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/CCliente.h
+CBancoCentral.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos/CBancoCentral.h
+

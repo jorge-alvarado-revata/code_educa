@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jorge Alvarado/Documents/GitHub/archivos-sol/.vscode/CAleatorio.cpp
+CAleatorio.h
+C:/Users/Jorge Alvarado/Documents/GitHub/archivos-sol/.vscode/CAleatorio.h
+fstream
+-
+iostream
+-
+string
+-
+Tipos.h
+C:/Users/Jorge Alvarado/Documents/GitHub/archivos-sol/.vscode/Tipos.h
+
+C:/Users/Jorge Alvarado/Documents/GitHub/archivos-sol/.vscode/CAleatorio.h
+iostream
+-
+Vector
+-
+Tipos.h
+C:/Users/Jorge Alvarado/Documents/GitHub/archivos-sol/.vscode/Tipos.h
+
+C:/Users/Jorge Alvarado/Documents/GitHub/archivos-sol/.vscode/Tipos.h
+iostream
+-
+

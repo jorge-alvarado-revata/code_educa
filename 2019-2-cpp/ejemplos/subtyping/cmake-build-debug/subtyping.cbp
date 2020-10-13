@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="subtyping"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="subtyping">
+				<Option output="C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/subtyping.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 subtyping"/>
+					<CompileFile command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="subtyping/fast">
+				<Option output="C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/subtyping.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 subtyping/fast"/>
+					<CompileFile command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Jorge Alvarado/CLionProjects/subtyping/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/AbstractPoligono.h">
+			<Option target="subtyping"/>
+		</Unit>
+		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/Elipse.cpp">
+			<Option target="subtyping"/>
+		</Unit>
+		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/Elipse.h">
+			<Option target="subtyping"/>
+		</Unit>
+		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/Paralelograma.cpp">
+			<Option target="subtyping"/>
+		</Unit>
+		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/Paralelograma.h">
+			<Option target="subtyping"/>
+		</Unit>
+		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.cpp">
+			<Option target="subtyping"/>
+		</Unit>
+		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.h">
+			<Option target="subtyping"/>
+		</Unit>
+		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/Triangulo.cpp">
+			<Option target="subtyping"/>
+		</Unit>
+		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/Triangulo.h">
+			<Option target="subtyping"/>
+		</Unit>
+		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/main.cpp">
+			<Option target="subtyping"/>
+		</Unit>
+		<Unit filename="C:/Users/Jorge Alvarado/CLionProjects/subtyping/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

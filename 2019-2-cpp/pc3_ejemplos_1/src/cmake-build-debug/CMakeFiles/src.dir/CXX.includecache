@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/CLavadora.cpp
+Tipos.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/Tipos.h
+CLavadora.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/CLavadora.h
+CMotor.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/CMotor.h
+CTambor.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/CTambor.h
+iostream
+-
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/CLavadora.h
+Tipos.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/Tipos.h
+CMotor.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/CMotor.h
+CTambor.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/CTambor.h
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/CMotor.cpp
+CMotor.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/CMotor.h
+iostream
+-
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/CMotor.h
+Tipos.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/Tipos.h
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/CTambor.h
+Tipos.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/Tipos.h
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/Ctambor.cpp
+CTambor.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/CTambor.h
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/Tipos.h
+iostream
+-
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/main.cpp
+iostream
+-
+CLavadora.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc3_ejemplos_1/src/CLavadora.h
+

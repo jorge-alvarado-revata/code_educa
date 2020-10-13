@@ -1,0 +1,3 @@
+C:/Users/Jorge Alvarado/CLionProjects/casting/cmake-build-debug/CMakeFiles/casting.dir
+C:/Users/Jorge Alvarado/CLionProjects/casting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jorge Alvarado/CLionProjects/casting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

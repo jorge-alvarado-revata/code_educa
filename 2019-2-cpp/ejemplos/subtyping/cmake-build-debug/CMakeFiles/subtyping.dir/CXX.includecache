@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jorge Alvarado/CLionProjects/subtyping/AbstractPoligono.h
+Tipos.h
+C:/Users/Jorge Alvarado/CLionProjects/subtyping/Tipos.h
+
+C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.cpp
+Poligono.h
+C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.h
+
+C:/Users/Jorge Alvarado/CLionProjects/subtyping/Poligono.h
+AbstractPoligono.h
+C:/Users/Jorge Alvarado/CLionProjects/subtyping/AbstractPoligono.h
+
+C:/Users/Jorge Alvarado/CLionProjects/subtyping/Tipos.h
+

@@ -1,0 +1,6 @@
+pan con huevo,4
+pan con pollo,5
+pan con pavo,5
+pan con palta,3
+pan con pescado,4
+pan con lomo,6

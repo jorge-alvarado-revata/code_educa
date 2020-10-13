@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/src/CAlumno.h
+Tipos.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/src/Tipos.h
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/src/CAula.cpp
+CAula.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/src/CAula.h
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/src/CAula.h
+Tipos.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/src/Tipos.h
+iostream
+-
+vector
+-
+CAlumno.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/src/CAlumno.h
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/src/Tipos.h
+iostream
+-
+
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/src/main.cpp
+iostream
+-
+CAlumno.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/src/CAlumno.h
+CAula.h
+C:/Users/Jorge Alvarado/Documents/GitHub/2019-2-cpp/pc_3_ejemplos_2/src/CAula.h
+
